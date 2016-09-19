@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites tests='10' failures='0'>
+  <testsuite name='MTC2016Tests.MTC2016Tests' tests='2' failures='0'>
+    <testcase classname='MTC2016Tests.MTC2016Tests' name='testExample' time='0.000'/>
+    <testcase classname='MTC2016Tests.MTC2016Tests' name='testPerformanceExample' time='0.350'/>
+  </testsuite>
+  <testsuite name='MTC2016UITests.MTC2016UITests' tests='1' failures='0'>
+    <testcase classname='MTC2016UITests.MTC2016UITests' name='testExample' time='3.434'/>
+  </testsuite>
+  <testsuite name='CityTests.CityTests' tests='2' failures='0'>
+    <testcase classname='CityTests.CityTests' name='testExample' time='0.000'/>
+    <testcase classname='CityTests.CityTests' name='testPerformanceExample' time='0.266'/>
+  </testsuite>
+  <testsuite name='WeatherTests.WeatherTests' tests='2' failures='0'>
+    <testcase classname='WeatherTests.WeatherTests' name='testExample' time='0.000'/>
+    <testcase classname='WeatherTests.WeatherTests' name='testPerformanceExample' time='0.261'/>
+  </testsuite>
+  <testsuite name='CommonTests.CommonTests' tests='2' failures='0'>
+    <testcase classname='CommonTests.CommonTests' name='testExample' time='0.000'/>
+    <testcase classname='CommonTests.CommonTests' name='testPerformanceExample' time='0.258'/>
+  </testsuite>
+  <testsuite name='MTC2016_Screenshots.MTC2016_Screenshots' tests='1' failures='0'>
+    <testcase classname='MTC2016_Screenshots.MTC2016_Screenshots' name='testExample' time='10.553'/>
+  </testsuite>
+</testsuites>
